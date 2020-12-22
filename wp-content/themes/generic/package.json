@@ -1,0 +1,15 @@
+{
+  "name": "generic",
+  "version": "1.0.0",
+  "description": "Foundation of Theme Builder",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neo Hsueh Yen",
+  "license": "ISC"
+}
